@@ -7,8 +7,7 @@ return [
     'username' => 'yii2basic',
     'password' => 'yii2basic',
     'charset' => 'utf8mb4',
-    'tablePrefix' => 'ipo2_',
-//    'tablePrefix' => 'tw3_',
+    'tablePrefix' => 'tw3_',
     'enableSchemaCache' => true,
     'emulatePrepare' => true,
 ];
